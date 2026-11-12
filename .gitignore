@@ -1,0 +1,4 @@
+# Local secrets and generated build files
+/database.local.properties
+/target/
+*.log
